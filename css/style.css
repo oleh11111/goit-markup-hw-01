@@ -1,6 +1,15 @@
 .page{
     color: #757575;
-}
+    background-color: #ffffff;
+    font name: roboto;
+    
 ul{
     list-style: none;
+}
+.logo{
+color: #000000;
+text-decoration: none;
+}
+.logo-web{
+    color: #2196F3;
 }
